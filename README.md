@@ -1,2 +1,2 @@
-# house_price_prediction
+# House price prediction
 Predict house prices in Bengaluru
